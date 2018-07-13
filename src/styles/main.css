@@ -1,0 +1,19 @@
+#main-content {
+    position: absolute;
+    width: 800px;
+    left: 50%;
+    top: 10%;
+    margin-left: -400px;
+}
+
+#contact-icon {
+    padding-right: 20px;
+}
+
+.CustomModal {
+     position: absolute;
+     top: 100px;
+     left: 500px;
+     right: 500px;
+     bottom: 100px;
+}
